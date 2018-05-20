@@ -2,7 +2,7 @@
 
 ## Python programs written for some interesting applications:  
 
-- **NA Translation**
+- **DNA Translation**
 - **Basic Natural Language Processing** (*Pandas, Numpy, Matplotlib*)
 - **Elementary Network Analysis** (*NetworkX, Scipy, Numpy*)
 - **kNN classification** (*Scikit-Learn, Scipy, Numpy, Matplotlib*)
