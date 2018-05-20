@@ -1,6 +1,6 @@
 # Simple Programs for Machine Learning and Data Science
 
-**Python programs written for some interesting applications:  
+**Python programs written for some interesting applications**:  
 
 - DNA Translation
 - Basic Natural Language Processing (*Pandas, Numpy, Matplotlib*)
